@@ -7,7 +7,7 @@ The following dependencies must be installed. There are a lot of them, and it mi
 1. python3.5 or above 
 2. numpy 
 3. collections
-4. tensorflow
+4. keras
 5. random
 6. skimage
 7. gym
